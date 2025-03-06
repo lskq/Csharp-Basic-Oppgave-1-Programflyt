@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Basic-Oppgave-1-Programflyt", "Csharp-Basic-Oppgave-1-Programflyt.csproj", "{2905BF01-8167-C235-B73C-071CD01D05BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2905BF01-8167-C235-B73C-071CD01D05BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2905BF01-8167-C235-B73C-071CD01D05BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2905BF01-8167-C235-B73C-071CD01D05BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2905BF01-8167-C235-B73C-071CD01D05BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A41196-CE24-4C80-A044-3FD32598F0DA}
+	EndGlobalSection
+EndGlobal
