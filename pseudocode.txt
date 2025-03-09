@@ -1,0 +1,15 @@
+if args above 0:
+    for each arg in args:
+        if arg is a double:
+            if arg less than -273.15:
+                print message (impossible)
+            else if arg less than or equal to 0:
+                print message (freezing)
+            else if arg more than or equal to 100:
+                print message (boiling)
+            else:
+                print message (normal)
+        else:
+            print error (invalid)
+else:
+    print error (no args)
